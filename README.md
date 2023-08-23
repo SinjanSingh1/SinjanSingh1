@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi 👋, I'm Sinjan Singh</h2>
-<h3 align="left">I am an IT student</h3>
+<u><h3 align="left">I am an IT Student</h3></u>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1GqxpTEIQC9M2BXOiIc-F2pKrpWV1ycHxGw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinjansingh1&label=Profile%20views&color=0e75b6&style=flat" alt="sinjansingh1" /> </p>
@@ -14,7 +14,7 @@
 - 📄 Know about my skills and achievements [https://drive.google.com/file/d/13VcEOD2xlndRkHEW2Tvm5URNij3EE8lw/view?usp=drive_link](https://drive.google.com/file/d/13VcEOD2xlndRkHEW2Tvm5URNij3EE8lw/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" width="50">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sinjan-singh-17442a222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sinjan-singh-17442a222" height="30" width="40" /></a>
 </p>
 
