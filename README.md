@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi, I'm Sinjan Singh👋👩🏻‍💻</h1>
-<u><h3 align="left">I am an Information Technology Student🎓</h3></u>
+<u><h3 align="center">A passionate Software developer</h3></u>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1GqxpTEIQC9M2BXOiIc-F2pKrpWV1ycHxGw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinjansingh1&label=Profile%20views&color=0e75b6&style=flat" alt="sinjansingh1" /> </p>
