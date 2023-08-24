@@ -1,4 +1,8 @@
 
+![Screenshot 2023-08-24 192321](https://github.com/SinjanSingh1/SinjanSingh1/assets/112745250/ee601b60-6479-4c6f-adb3-a3117a0eb79b)
+
+
+
 <h1 align="center">Hi, I'm Sinjan Singh👋👩🏻‍💻</h1>
 <u><h3 align="left">I am an Information Technology Student🎓</h3></u>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1GqxpTEIQC9M2BXOiIc-F2pKrpWV1ycHxGw&usqp=CAU">
@@ -7,7 +11,7 @@
 
 - 🔭 I’m currently working on **Datascience and web development Technologies like Django, JavaScript, etc.**
 
-- 🌱 I’m currently learning **Frontend and Django**
+- 🌱 I’m currently learning **Frontend and Backend Technologies**
 
 - 📫 How to reach me **sinjan.singh200@gmail.com**
 
