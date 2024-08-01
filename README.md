@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinjansingh1&label=Profile%20views&color=0e75b6&style=flat" alt="sinjansingh1" /> </p>
 
-- 🔭 I’m currently working on **Java FullStack Technologies and on Testing frameworks like Java,HTML,CSS, JavaScript, JSP,Spring,Hibernate,Selenium etc.**
+- 🔭 I’m currently working on **Java Fullstack Technologies and on Testing frameworks like Java,HTML,CSS, JavaScript, JSP,Spring,Hibernate,Selenium etc.**
 
 - 🌱 I’m currently learning **Frontend and Backend Technologies**
 
